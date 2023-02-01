@@ -1,2 +1,2 @@
 # Selenium_Handson
-Basic Web Element operations and action 
+Basic Web Element operations and actions
